@@ -7,7 +7,10 @@
 ![](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular)
 ![](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 
 
 <!--
